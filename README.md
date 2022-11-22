@@ -1,7 +1,7 @@
-# Movie-DB
-### JavaScript course project
+# Movie-DB | JavaScript course project
 
-## Stack:
+
+**Stack:**
 
 1. Native JavaScript
 
